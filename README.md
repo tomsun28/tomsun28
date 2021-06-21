@@ -2,9 +2,10 @@
 
 ### Hi there 👋🔭🌱👯🤔💬😄⚡✨    
 
-[![Blog](https://img.shields.io/badge/Blog.tomsun28-%20-orange?logo=bloglovin)](https://usthe.com)
+[![Blog](https://img.shields.io/badge/Blog.tomsun28-%20-orange?logo=bloglovin)](https://blog.usthe.com)
 [![tomsun28@outlook.com.com](https://img.shields.io/badge/tomsun28%40outlook.com-%20-green?logo=gmail)](mailto:tomsun28@outlook.com)
-[![sureness](https://img.shields.io/badge/sureness-%20-yellow?logo=appveyor)](https://su.usthe.com)  
+[![sureness](https://img.shields.io/badge/sureness-%20-yellow?logo=appveyor)](https://usthe.com/sureness)   
+[![issues-translate-action](https://img.shields.io/badge/action-translator-yellow?logo=appveyor)](https://github.com/usthe/issues-translate-action)   
 
 <!--
 **tomsun28/tomsun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
