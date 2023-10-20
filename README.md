@@ -8,7 +8,7 @@
 [![hertzbeat](https://img.shields.io/badge/hertzbeat-blue?logo=appveyor)](https://github.com/dromara/hertzbeat)
 
 
-#### **We are focusing on an open-source real-time monitoring project [`hertzbeat`](https://github.com/dromara/hertzbeat), weclome to take a look and give us a star! Thanks!** 
+#### **We are focusing on an open-source real-time monitoring project [`hertzbeat`](https://github.com/dromara/hertzbeat), weclome to take a look and give us a star!** 
 
 <!--
 **tomsun28/tomsun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
