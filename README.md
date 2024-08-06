@@ -3,12 +3,12 @@
 ### Hi there 👋🔭🌱👯🤔💬😄⚡✨    
 
 [![tomsun28@outlook.com.com](https://img.shields.io/badge/tomsun28%40outlook.com-%20-green?logo=gmail)](mailto:tomsun28@outlook.com)
-[![sureness](https://img.shields.io/badge/sureness-%20-yellow?logo=appveyor)](https://usthe.com/sureness)   
+[![sureness](https://img.shields.io/badge/sureness-%20-yellow?logo=appveyor)](https://github.com/dromara/sureness)   
 [![issues-translate-action](https://img.shields.io/badge/action-translator-yellow?logo=appveyor)](https://github.com/usthe/issues-translate-action) 
-[![hertzbeat](https://img.shields.io/badge/hertzbeat-blue?logo=appveyor)](https://github.com/dromara/hertzbeat)
+[![hertzbeat](https://img.shields.io/badge/hertzbeat-blue?logo=appveyor)](https://github.com/apache/hertzbeat)
 
 
-#### **Hi, we are focusing on an open-source real-time monitoring project [`hertzbeat`](https://github.com/dromara/hertzbeat), weclome to take a look and star!** 
+#### **Hi, we are focusing on an open-source real-time monitoring project [`hertzbeat`](https://github.com/apache/hertzbeat), weclome to take a look and star!** 
 
 <!--
 **tomsun28/tomsun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
