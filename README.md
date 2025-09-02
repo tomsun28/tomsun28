@@ -1,14 +1,27 @@
-<a href="https://github.com/tomsun28"><img align='right' src="https://github-readme-stats.vercel.app/api?username=tomsun28&show_icons=true&theme=radical&count_private=true"></a>
+### Hi there 👋, I'm Tom!
 
-### Hi there 👋🔭🌱👯🤔💬😄⚡✨    
+A developer who loves coding, open source, football ⚽, and exploring new tech, currently working at z.ai(试用期卷王版).  
 
-[![tomsun28@outlook.com.com](https://img.shields.io/badge/tomsun28%40outlook.com-%20-green?logo=gmail)](mailto:tomsun28@outlook.com)
-[![sureness](https://img.shields.io/badge/sureness-%20-yellow?logo=appveyor)](https://github.com/dromara/sureness)   
-[![issues-translate-action](https://img.shields.io/badge/action-translator-yellow?logo=appveyor)](https://github.com/usthe/issues-translate-action) 
-[![hertzbeat](https://img.shields.io/badge/hertzbeat-blue?logo=appveyor)](https://github.com/apache/hertzbeat)
-[![a2a4j](https://img.shields.io/badge/a2a4j-pink?logo=appveyor)](https://github.com/a2ap/a2a4j)
+**About Me**  
+- Apache HertzBeat PMC Chair, V.P.
+- Mentor for Google Summer of Code (GSOC), Open Source Summer (OSPP) and GLCC's projects.  
+- Founder of multiple open-source projects. Dromara community member.
+- Worked +1, Startup +1, Full-time dad +1, Bilibili UP +1.  
 
 
+**What I do**  
+- Play with the chat completions.
+- Backend development and application.  
+- Write open dev docs and open source. 
+
+
+**More**
+- Fan of Liverpool FC.  
+- Play football as Salah No.11 at Beijing Erhe Kai or Mianyang XinMiao.
+- Dota2.   
+
+Ask me about ai, opensource, mcp, a2a, product, saas, observability and others.    
+Feel free to reach me and say hi! 
 
 <!--
 **tomsun28/tomsun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
