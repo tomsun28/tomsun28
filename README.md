@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tom!
 
-A developer who loves coding, open source, football ⚽, and exploring new tech, currently working at z.ai(试用期卷王版).  
+A developer who loves coding, open source, football ⚽, and exploring new tech, currently working at z.ai(重生之试用期版).  
 
 **About Me**  
 - Apache HertzBeat PMC Chair, V.P.
