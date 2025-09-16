@@ -6,7 +6,7 @@ A developer who loves coding, open source, football ⚽, and exploring new tech,
 - Apache HertzBeat PMC Chair, V.P.
 - Mentor for Google Summer of Code (GSOC), Open Source Summer (OSPP) and GLCC's projects.  
 - Founder of multiple open-source projects. Dromara community member.
-- Worked +1, Startup +1, Full-time dad +1, Bilibili UP +1.  
+- Worked +1, Startup +1, Full-time dad +1, Bili up +1.  
 
 
 **What I do**  
